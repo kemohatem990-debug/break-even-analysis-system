@@ -53,11 +53,11 @@ def business_insight(cf, cv, sp, v):
     print("\n--- Business Insight ---")
 
     if sp <= cv:
-        print("⚠️ Not viable: no profit per unit.")
+        print(" Not viable: no profit per unit.")
     elif pr > 0:
-        print("✅ Profitable business.")
+        print(" Profitable business.")
     else:
-        print("⚠️ Currently operating at a loss.")
+        print(" Currently operating at a loss.")
 
 
 # =========================
