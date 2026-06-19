@@ -20,8 +20,3 @@ A simple Python project that calculates Break-Even Point and basic business metr
 
 - Python 3
 - Matplotlib
-
-
-
-```bash
-python breakevenpoint.py
